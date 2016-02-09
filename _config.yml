@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: The Adventures of Mark Tyneway
+title: Mark Tyneway
 
 # Short description of your site
 description: A blog following my adventures through life. Currently attending Hack Reactor in San Francisco, CA.
@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Author's home: "http://Tynes.github.io"
+  #Author's home: "http://Tynes.github.io"
   
 # --- Footer options --- #
 
@@ -38,21 +38,21 @@ navbar-links:
 author:
   name: Mark Tyneway
   email: "tyneway12@gmail.com"
-  facebook: yourname  # eg. daattali
+  #facebook: yourname  # eg. daattali
   github: Tynes    # eg. daattali
   twitter: tyneslol   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  linkedin: "in/mark-tyneway-5053a950"  # eg. "pub/dean-attali/8/946/143"
+  #stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
+  #facebook: false
   email: true
   twitter: true
   github: true
   linkedin: true
-  stackoverflow: false
+  #stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
