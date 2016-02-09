@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Looking for a job! Hire me after I complete Hack Reactor
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mark Tyneway and I hold a BS in Molecular Neuroscience from SUNY Binghamton.
+The allure of doing huge things through software changed my life trajectory, so I ended up at [Hack Reactor](www.hackreactor.com) to learn how to help fix the world.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am interested in the intersection between neuroscience, lifestyle and technology.  The problems that software can solve can scale globally, so what kinds of products and services can we create to help enable healthy living across the world?
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Favorite Places on the Internet
+* [Hacker News](https://news.ycombinator.com/)
+* [Edge](http://edge.org/)
+* [Science 2.0](http://www.science20.com/)
+* [Medium](https://medium.com)
+* [/r Science](https://www.reddit.com/r/science/)
+* [Less Wrong](http://lesswrong.com/)
