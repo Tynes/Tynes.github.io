@@ -42,10 +42,10 @@ The problem is that nobody is aware of these characteristics - the knowledge mos
 ![Mr. Miyagi](https://canadianboxer.files.wordpress.com/2013/04/mr-kesuke-miyagi-fly-catcher4.jpg?w=297&h=297&crop=1 "Make him proud")
 
 __References__  
-* Baumeister, R. F., & Vohs, K. D. (2003). Self-regulation and the executive function of the self. In M. R. Leary & J. P. Tangney (Eds.), Handbook of self and identity (pp. 197-217). New York: Guilford Press.  
-* Beer, J.S., Chester, D.S., Hughes, B.L. (2013). Social threat and cognitive load magnify self- enhancement and attenuate self-deprecation. Journal of Experimental Social Psychology, 49, 706–711. http://dx.doi.org/10.1016/j.jesp.2013.02.017  
-* Davis, D. E., Hook, J. N., Worthington, E. L., Jr., Van Tongeren, D. R., Gartner, A. L., Jennings, D. J. II., & Emmons, R. A. (2011). Relational humility: Conceptualizing and measuring humility as a personality judgment. Journal of Personality Assessment, 93, 225–234. http://dx.doi.org/10.1080/00223891.2011.558871  
-* Hepper, E. G., Gramzow, R. H., & Sedikides, C. (2010). Individual differences in self‐enhancement and self‐protection strategies: An integrative analysis. Journal of personality, 78(2), 781-814.  
-* Tong, E. M., Tan, K. W., Chor, A. A., Koh, E. P., Lee, J. S., & Tan, R. W. (2016). Humility facilitates higher self-control. Journal of Experimental Social Psychology, 62, 30-39. Chicago	 
+- Baumeister, R. F., & Vohs, K. D. (2003). Self-regulation and the executive function of the self. In M. R. Leary & J. P. Tangney (Eds.), Handbook of self and identity (pp. 197-217). New York: Guilford Press.  
+- Beer, J.S., Chester, D.S., Hughes, B.L. (2013). Social threat and cognitive load magnify self- enhancement and attenuate self-deprecation. Journal of Experimental Social Psychology, 49, 706–711. http://dx.doi.org/10.1016/j.jesp.2013.02.017  
+- Davis, D. E., Hook, J. N., Worthington, E. L., Jr., Van Tongeren, D. R., Gartner, A. L., Jennings, D. J. II., & Emmons, R. A. (2011). Relational humility: Conceptualizing and measuring humility as a personality judgment. Journal of Personality Assessment, 93, 225–234. http://dx.doi.org/10.1080/00223891.2011.558871  
+- Hepper, E. G., Gramzow, R. H., & Sedikides, C. (2010). Individual differences in self‐enhancement and self‐protection strategies: An integrative analysis. Journal of personality, 78(2), 781-814.  
+- Tong, E. M., Tan, K. W., Chor, A. A., Koh, E. P., Lee, J. S., & Tan, R. W. (2016). Humility facilitates higher self-control. Journal of Experimental Social Psychology, 62, 30-39. Chicago	 
 
 Maybe one day I'll figure out how to get hanging indentations to work in markdown for the references section. Sorry gods of academia for not following your standards. Please do not smite me.
