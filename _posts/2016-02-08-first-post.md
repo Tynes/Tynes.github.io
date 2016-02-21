@@ -16,7 +16,7 @@ Well, that story has already been told, so I suppose all you need to know is tha
 >-Lewis Carroll, Alice in Wonderland
 
 You can say that nobody *really* knows where they are going, but for now, I have myself some direction.
-I am moving across the country to attend [Hack Reactor](www.hackreactor.com), the premier programming bootcamp located in
+I am moving across the country to attend [Hack Reactor](http://www.hackreactor.com/), the premier programming bootcamp located in
 San Francisco, California.
 
 >"Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body, but rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming 'Wow! What a ride'"  
