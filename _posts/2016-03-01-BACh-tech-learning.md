@@ -4,8 +4,6 @@ title: BACh Helps People Learn Faster
 subtitle: Technologically Mediated Learning
 ---
 
-####
-
 A new technology, called Brain Automated Chorales (or BACh) uses a [device](http://www.iss.com/biomedical/instruments/imagent.html)
 to sense the brain activity of a human learning a task and automatically increases the difficulty of the task
 as the person's brain activity indicates that they are gaining mastery.
